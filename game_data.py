@@ -175,13 +175,13 @@ data = [
     },
     {
         'name': 'Shakira',
-        'follower_count': 66,
+        'follower_count': 166,
         'description': 'Musician',
         'country': 'Colombia'
     },
     {
         'name': 'Drake',
-        'follower_count': 65,
+        'follower_count': 40,
         'description': 'Musician',
         'country': 'Canada'
     },
@@ -193,13 +193,13 @@ data = [
     },
     {
         'name': 'LeBron James',
-        'follower_count': 63,
+        'follower_count': 66,
         'description': 'Basketball player',
         'country': 'United States'
     },
     {
         'name': 'Vin Diesel',
-        'follower_count': 62,
+        'follower_count': 74,
         'description': 'Actor',
         'country': 'United States'
     },
@@ -217,7 +217,7 @@ data = [
     },
     {
         'name': 'Billie Eilish',
-        'follower_count': 61,
+        'follower_count': 75,
         'description': 'Musician',
         'country': 'United States'
     },
@@ -229,25 +229,25 @@ data = [
     },
     {
         'name': 'UEFA Champions League',
-        'follower_count': 58,
+        'follower_count': 59,
         'description': 'Club football competition',
         'country': 'Europe'
     },
     {
         'name': 'NASA',
-        'follower_count': 56,
+        'follower_count': 100,
         'description': 'Space agency',
         'country': 'United States'
     },
     {
         'name': 'Emma Watson',
-        'follower_count': 56,
+        'follower_count': 65,
         'description': 'Actress',
         'country': 'United Kingdom'
     },
     {
         'name': 'Shawn Mendes',
-        'follower_count': 56,
+        'follower_count': 57,
         'description': 'Musician',
         'country': 'Canada'
     },
@@ -265,13 +265,13 @@ data = [
     },
     {
         'name': 'Priyanka Chopra Jonas',
-        'follower_count': 52,
+        'follower_count': 22,
         'description': 'Actress and musician',
         'country': 'India'
     },
     {
         'name': '9GAG',
-        'follower_count': 52,
+        'follower_count': 49,
         'description': 'Social media platform',
         'country': 'China'
     },
@@ -298,5 +298,35 @@ data = [
         'follower_count': 47,
         'description': 'Club Basketball Competition',
         'country': 'United States'
+    },
+    {
+        'name': 'Micheal Jackson',
+        'follower_count': 1000,
+        'description': 'King of Pop',
+        'country': 'United States'
+    },
+    {
+        'name': 'Donald Trump',
+        'follower_count': 48,
+        'description': 'President of the United States',
+        'country': 'United States'
+    },
+    {
+        'name': 'Joe Biden',
+        'follower_count': 53,
+        'description': 'President Elect of the United States',
+        'country': 'United States'
+    },
+    {
+        'name': 'Hayfa Wahbeh',
+        'follower_count': 25,
+        'description': 'Lebanese Singer',
+        'country': 'Lebanon'
+    },
+    {
+        'name': 'Najwa Karam',
+        'follower_count': 30,
+        'description': 'Lebanese Singer',
+        'country': 'Lebanon'
     }
 ]
